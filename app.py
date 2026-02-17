@@ -2,7 +2,6 @@ import streamlit as st
 
 with st.sidebar:
     st.title("☎️INFORMATIONS")
-    st.image("ef.png")
     st.text(" El Hadji Malick Wade")
     st.text("Tel: 77 223 70 05")
     st.text("email: wademalick02@gmail.com")
